@@ -1,5 +1,5 @@
    <h1 align="center">Hi 👋, I'm Shenoda Mohsen and I'm a .NET DEV, From Egypt</h1>
-<div align = "center"> <img src=<a href="https://ibb.co/mTt0LZp"><img src="https://i.ibb.co/MSpfYwd/IMG-7356.png" alt="IMG-7356" border="0"></a></div>
+<div align = "center"> <img src=<a href="<a href="https://ibb.co/mTt0LZp"><img src="https://i.ibb.co/MSpfYwd/IMG-7356.png" alt="IMG-7356" border="0"></a></div>
 <h3 align="center">Aspiring Software Development 🧑‍💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdel-rahmanowais&label=Profile%20views&color=0e75b6&style=flat" alt="abdel-rahmanowais" /> </p>
 <h3 align = "center"></h3>
